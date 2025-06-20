@@ -1,1 +1,0 @@
-# Competitive Programming Experience and Code Snippet
